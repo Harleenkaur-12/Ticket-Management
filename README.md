@@ -7,9 +7,6 @@ Clone this repo to your text editor and `cd into the root folder`. In the comman
 ### Overview
 I am a full-stack web developer specializing in the MERN framework and currently seeking opportunities for full-time employment. My goal is to create high-quality web and mobile applications that help to solve real world business problems and engineer creative solutions to excell your company in the marketplace. The scope of this project is fairly small and simple, but provides a functional software that allows anyone to create tickets to track their bugs, issues, or tasks to complete. This application was originally designed for software developers to track their bugs, however, it can easily be implemented as a Customer Support ticketing system or Task Manager for professional business's. Ticket Tracker implements REST API's with axios, CRUD functionality, JSON, User Authentication using JWT and bcryptJS, MongoDB with mongoose, State Management using Context API, Styling of the UI with CSS, use of React libraries such as BrowserRouter, React-Router-Dom, Hooks, Bootstrap/Reactstrap and more. 
 
-### Project Developer
-
-**Shaker Kattoula - Full Stack Web Developer - shakerkattoula.com**
 
 ### Goal
 * Manage and organize your employee's daily tasks to boost productivity and work flow.
